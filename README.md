@@ -1,4 +1,4 @@
-# AI-Safety-Monitor-YOLO-v8-Based-PPE-Detection-in-Video-Footage
+# AI Safety Monitor YOLO-v8 Based PPE Detection in Video Footage
 Advanced AI-driven system designed to enhance safety compliance in the workplace. It employs the power of the YOLO v8 model, trained on custom datasets, to analyze video inputs in real-time or post-recording.
 
 The system intelligently identifies individuals in the video and evaluates their adherence to safety regulations by detecting the presence or absence of Personal Protective Equipment (PPE) like safety vests and helmets. This includes a thorough analysis of the video frame-by-frame to ensure no detail is overlooked.
