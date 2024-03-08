@@ -8,3 +8,8 @@ The output is provided in the form of an annotated video, clearly highlighting i
 Through its robust functionality, "AI Safety Monitor" serves as a reliable and efficient tool for safety officers, workplace supervisors, and other stakeholders committed to maintaining a safe and secure working environment.
 
 Note: Take care of the weights path while executing the inferencing code.
+
+# Below is the output for the inferencing code:
+
+https://github.com/tech-aakash/AI-Safety-Monitor-YOLO-v8-Based-PPE-Detection-in-Video-Footage/assets/162134525/7650325b-f1af-4aa5-b4a5-98fa7477061b
+
