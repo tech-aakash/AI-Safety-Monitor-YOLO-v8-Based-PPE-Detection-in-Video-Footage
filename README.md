@@ -6,3 +6,5 @@ The system intelligently identifies individuals in the video and evaluates their
 The output is provided in the form of an annotated video, clearly highlighting individuals and the detected PPE for easy review and follow-up. This innovative project aims to mitigate workplace risks, improve safety compliance, and, ultimately, save lives by alerting relevant parties of any safety violations swiftly and accurately.
 
 Through its robust functionality, "AI Safety Monitor" serves as a reliable and efficient tool for safety officers, workplace supervisors, and other stakeholders committed to maintaining a safe and secure working environment.
+
+Note: Take care of the weights path while executing the inferencing code.
